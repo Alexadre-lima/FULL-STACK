@@ -1,0 +1,15 @@
+/* 4 - Ordem do CSS */
+p{
+    color: red;
+}
+/* 6 - Comentario */
+/* 7 - Classes  */
+.css-com-classes{
+    color: aqua;
+    background-color: #000;
+}
+
+#css-com-ids{
+    color: aquamarine;
+    background-color: #000;
+}
