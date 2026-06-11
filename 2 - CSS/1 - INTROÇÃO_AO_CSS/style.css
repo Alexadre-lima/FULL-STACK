@@ -8,8 +8,18 @@ p{
     color: aqua;
     background-color: #000;
 }
-
+/* 8 - ids */
 #css-com-ids{
     color: aquamarine;
     background-color: #000;
+}
+/* 9 - Ordem dos seletores */
+h3{
+    border-bottom:  2px solid red;
+}
+.texto{
+    border-bottom:  2px solid black; 
+}
+#algum-texto{
+    border-bottom:  2px solid green; 
 }
