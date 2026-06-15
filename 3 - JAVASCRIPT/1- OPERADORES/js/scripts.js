@@ -33,3 +33,40 @@ console.log(`Soma de 2 + 2 = {2 + 2}`)
 console.log(`Podemos executar qauqler coisa aqui${console.log("teste")}`)
 
 // 8 - Booleans
+console.log(true)
+console.log(false)
+console.log(5 > 20)
+console.log(30 > 10)
+
+// 9 -  Comparações
+console.log(5 > 20)
+console.log(30 > 10)
+console.log(30 == 30)
+console.log(30 == 29)
+console.log(30 != 29)
+
+// 10 Comparação de idêntico
+console.log(30 == "30") 
+console.log(30 === "30") 
+console.log(30 + "29")
+console.log(30 != "29")
+console.log(30 !== "29")
+
+
+// 11 - Operadores Lógicos
+console.log(true && true)
+console.log(true && false)
+
+console.log (5 > 2 && 2 < 10)
+console.log (5 > 2 || 2 < 10)
+console.log (5 > 2 && 2 < 10)
+
+console.log(!true)
+console.log(!false)
+
+console.log(!5 > 2)
+
+// 12 - Empty Values
+
+console.log(typeof nulll, typeof undefined)
+console.log(typeof nulll, typeof undefined)
