@@ -68,5 +68,14 @@ console.log(!5 > 2)
 
 // 12 - Empty Values
 
-console.log(typeof nulll, typeof undefined)
-console.log(typeof nulll, typeof undefined)
+console.log(typeof null, typeof undefined)
+console.log(null == undefined)
+console.log(null === undefined)
+console.log(null == false)
+console.log(undefined == false)
+
+// 13 - mudança de tipos
+console.lgo(5 * null)
+console.lgo("teste" * "opa")
+console.lgo("10" + 1)
+console.lgo("10 "- 1)
