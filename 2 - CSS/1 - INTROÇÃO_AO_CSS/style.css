@@ -2,24 +2,79 @@
 p{
     color: red;
 }
+
 /* 6 - Comentario */
+
 /* 7 - Classes  */
 .css-com-classes{
     color: aqua;
     background-color: #000;
 }
+
 /* 8 - ids */
 #css-com-ids{
     color: aquamarine;
     background-color: #000;
 }
+
 /* 9 - Ordem dos seletores */
 h3{
     border-bottom:  2px solid red;
 }
+
 .texto{
     border-bottom:  2px solid black; 
 }
+
 #algum-texto{
     border-bottom:  2px solid green; 
+}
+
+/* 10 - Nome de cor */
+.color-name{
+    color: blue;
+}
+
+/* 11 - Hex */
+.hex{
+    color: #526348;
+}
+
+.hex-2{
+    color: #268536;
+}
+
+/* 12 - Mais sobre o Hex */
+.simple-hex{
+    color: #333;
+}
+
+.simple-hex2{
+    color: #a5f;
+}
+
+/* 13 - RGB */
+.rgb{
+    color: rgb(255, 0, 0);
+}
+.rgb-2{
+    color: rgb(99, 35, 225);
+}
+
+/* 14 - RGBA */
+.rgba{
+    color: rgba(225, 225, 25, 0.3);
+}
+
+.rgba-2{
+    color: rgba(2, 225, 2, 0.3);
+}
+
+/* 15 - HSL */
+.hsl{
+    color: hsl(100, 20%, 50%);
+}
+
+.hsl-2{
+    color: hsl(30, 100%, 90%);
 }
