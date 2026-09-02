@@ -104,3 +104,22 @@ h3{
     background-color: rgba(90, 120, 20, 0.2);
     color: #000;
 }
+
+/* 19 - Background images */
+.bg-image{
+    color: white;
+    background-image: url("../img/Ceu\ azul.webp");
+}
+
+/* 20 - Centralizar img de bg */
+.not-centered-bg, 
+.centered-bg{
+    height: 400px;
+    width: 400px;
+    background-image: url(../img/ponte.webp);
+}
+
+.centered-bg{
+    background-position: center;
+    background-size: cover;
+}
