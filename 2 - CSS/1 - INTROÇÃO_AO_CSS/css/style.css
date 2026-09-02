@@ -123,3 +123,35 @@ h3{
     background-position: center;
     background-size: cover;
 }
+
+/* 21 - Height and Width */
+.height-width{
+    height: 200px;
+    width: 100px;
+    background-color: red;
+}
+
+.height-width-2{
+    height: 300px;
+    background-color: #333;
+}
+
+/* 22 - Padding */
+.without-padding, .padding{
+    background-color: #455645;
+    color: #fff;
+}
+
+.padding{
+    padding: 20px;
+}
+
+/* 23 - padding-individual */
+.padding-individual{
+    background-color: #222;
+    color: #fff;
+    padding-top: 5px;
+    padding-right: 10;
+    padding-right: 20px;
+    padding-bottom: 40px;
+}
