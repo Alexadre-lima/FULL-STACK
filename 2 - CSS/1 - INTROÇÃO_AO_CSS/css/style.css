@@ -247,3 +247,25 @@ h3{
     width: 200px;
     height: 400px;
 }
+/* 31 - Text aligment */
+.text-aligned{
+    text-align: right;
+}
+.container-center{
+    text-align: center;
+    width: 300px;
+    border: 1px solid red;
+}
+
+/* 32 - Text Decorantion */
+.underline{
+    text-decoration: underline;
+}
+
+.line-trough{
+    text-decoration: line-through;
+}
+
+.romeve-underline{
+    text-decoration: none;
+}
