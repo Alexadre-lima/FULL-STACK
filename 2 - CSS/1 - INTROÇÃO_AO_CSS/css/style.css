@@ -269,3 +269,55 @@ h3{
 .romeve-underline{
     text-decoration: none;
 }
+
+/* 33 - text transform */
+.upper{
+    text-transform: uppercase;
+}
+.lower {
+    text-transform: lowercase;
+}
+
+/* 34 -  letter spacing */
+.spacing{
+    letter-spacing: 5px;
+}
+
+/* 35 -Fontes */
+.serif{
+    font-family: Georgia;
+}
+.sans-serif{
+    font-family: Helvetica;
+}
+.monospace{
+    font-style: "Courier New";
+}
+.cursive{
+    font-family: cursive;
+}
+.fantasy{
+    font-family: cursive;
+}
+
+/* 36 - font style */
+.italic{
+    font-style: italic;
+}
+.oblique{
+    font-style: oblique;
+}
+
+/* 37 - Font Weigth */
+.thin, .bold, .bolder{
+    font-family: Helvetica;
+}
+.thin{
+    font-weight: 100;
+}
+.bold{
+    font-weight: 600;
+}
+.bolder{
+    font-weight: 900;
+}
